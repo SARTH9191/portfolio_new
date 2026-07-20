@@ -40,7 +40,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
           <div className="lg:col-span-5 space-y-8">
             <div className="space-y-4">
-              <h4 className="text-2xl font-bold text-text-primary">Let's build something impactful.</h4>
+              <h4 className="text-2xl font-bold text-text-primary">Let&apos;s build something impactful.</h4>
               <p className="text-text-secondary text-sm sm:text-base leading-relaxed">
                 Whether you have a project idea, want to discuss AI systems, or simply say hello,
                 feel free to reach out.
